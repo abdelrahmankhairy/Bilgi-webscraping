@@ -1,0 +1,48 @@
+,course_code,course_name,status,lec_pra,ects
+0,BUS 179,Experiencing Business in Society I,Core,3+0,6
+1,EC 101,Introduction to Economics I,Core,2+1,6
+2,BUS/E 179,English for Academic Purposes I,Core,4+0,3
+3,CMPE 130,Algorithms and Programming,Core,3+2,6
+4,MATH 175,Calculus I,Core,4+1,7
+5,TK 103,Turkish Language I,Core,2+0,2
+6,MIS 102,Intermediate Programming,Core,3+2,5
+7,BUS 120,Office Applications for Business and Economics,Core,2+0,1
+8,BUS 180,Experiencing Business in Society II,Core,3+0,6
+9,EC 102,Introduction to Economics II,Core,2+1,6
+10,BUS/E 180,English for Academic Purposes II,Core,4+0,3
+11,MATH 176,Calculus  II,Core,4+1,7
+12,TK 104,Turkish Language II,Core,2+0,2
+13,MIS 202,Business Information Systems,Core,3+1,6
+14,MIS 306,Business Data Communications,Core,3+0,6
+15,BUS 211,Introduction to Accounting,Core,3+1,6
+16,BUS 273,Statistical Analysis for Business,Core,3+1,6
+17,HTR 111,History of Turkish Revolution I,Core,2+0,2
+18,.........,GE-Science List,Elective,0+0,4
+19,BUS 212,Financial Reporting and Analysis,Core,3+1,6
+20,BUS 274,Further Statistics for Business,Core,3+1,6
+21,MATH 235,Calculus for Economists and Administrative Sciences,Core,3+1,7
+22,HTR 112,History of Turkish Revolution II,Core,2+0,2
+23,.........,Full List,Elective,0+0,5
+24,.........,Full List,Elective,0+0,4
+25,MIS 300,Year II Summer Practicum,Core,1+0,3
+26,MIS 311,System Analysis and Design I,Core,3+2,6
+27,CMPE 283,Web Application Development,Core,3+2,5
+28,.........,MIS List,Elective,0+0,4
+29,.........,MIS List,Elective,0+0,6
+30,.........,GE-Social Science List II,Elective,0+0,6
+31,MIS 302,Database Management,Core,3+2,6
+32,MIS 312,System Analysis and Design II,Core,3+2,6
+33,BUS 314,Management Science,Core,3+1,6
+34,BUS 336,Organization Design,Core,3+0,6
+35,CMPE 372,User Interface Design,Core,3+2,6
+36,MIS 400,Year III Summer Practicum,Core,1+0,3
+37,MIS 401,Enterprise Systems,Core,3+2,6
+38,MIS 461,Management of Information Technology,Core,3+0,6
+39,MIS 497,Information Systems Project I,Core,3+0,5
+40,BUS 401,Strategic Management,Core,3+0,6
+41,.........,MIS List,Elective,0+0,4
+42,MIS 402,Management Support Systems and Business Intelligence,Core,3+2,6
+43,MIS 498,Information Systems Project II,Core,4+0,6
+44,BUS 462,e-Commerce,Core,3+0,6
+45,.........,BUS List,Elective,0+0,6
+46,.........,BUS List,Elective,0+0,6
